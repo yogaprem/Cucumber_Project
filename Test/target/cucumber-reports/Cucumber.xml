@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="47.893316">
+<testcase classname="Automation Online Shopping" name="Sample Page" time="35.439378">
+<system-out><![CDATA[Then The user launches the web site.........................................passed
+When I click SignIn enter required details..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Automation Online Shopping" name="Launch Summer Dresses" time="12.453938">
+<system-out><![CDATA[When I launch Summer Dresses and select filter..............................passed
+]]></system-out>
+</testcase>
+</testsuite>

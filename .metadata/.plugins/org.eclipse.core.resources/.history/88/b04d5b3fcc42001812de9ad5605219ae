@@ -1,0 +1,15 @@
+Feature: Register for Online Shopping
+Scenario: Sample Test Online Shopping
+Given the user launches the website "http://automationpractice.com/index.php"
+And he clicks on Signin button
+WHEN he enters the required email address 
+And clicks on 'Create an account'
+And he enters all the required registration information
+And on entering invalid emailid error message is displayed
+And he enters correct email address
+And he hits on Register button
+THEN his yourlogo account is created
+AND Myaccount page is displayed
+AND he clciks on Dresses icon in the shopping page
+And clicks on Summer dresses and page is correctly displayed
+And clicks on Sortby icon and selects lowest price first

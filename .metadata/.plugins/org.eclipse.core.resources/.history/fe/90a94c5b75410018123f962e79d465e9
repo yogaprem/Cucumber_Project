@@ -1,0 +1,5 @@
+Feature: Browser Open
+Scenario: Sample Page
+	Then I launch Google
+	When I click SignIn
+	AND enter the Email

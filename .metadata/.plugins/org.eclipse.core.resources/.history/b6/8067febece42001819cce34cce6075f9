@@ -1,0 +1,7 @@
+Feature: Register for Online Shopping
+Scenario: Sample Test Online Shopping
+
+Given The user launches the web site
+When Click Sign in button and enters required details
+Then I launch Summer Dresses and select filter
+

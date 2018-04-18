@@ -1,0 +1,3 @@
+Feature: Browser Open
+Scenario: Sample Page
+	Then I launch Google

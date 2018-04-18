@@ -1,0 +1,9 @@
+Feature: Automation Shop
+
+@ignore
+Scenario: Sample Page
+	Then The user launches the web site
+	#When I click SignIn
+	
+Scenario: Launch Summer Dresses
+	When I launch Summer Dresses
